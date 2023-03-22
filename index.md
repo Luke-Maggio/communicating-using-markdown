@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] sign cam sutton
+- [x] sign larry ogunjobi
+- [ ] draft devon witherspoon
